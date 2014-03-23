@@ -1,0 +1,7 @@
+<?php
+$db_host="localhost";
+$db_name="ykdb";
+$db_user="ykuser";
+$db_pass="ykpassword";
+$yubiserve_root="/opt/yubiserve";
+?>
