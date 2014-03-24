@@ -10,6 +10,7 @@ Installation
 You will need the following:
 - jquery.min.js, placed in the js/ subfolder
 - the complete Twitter Bootstrap package, placed in the bootstrap/ subfolder
+- php5-pgsql
 
 Configuration
 =============

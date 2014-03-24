@@ -21,7 +21,6 @@ include "config.php";
 
     <!-- Custom styles for this template -->
     <link href="theme.css" rel="stylesheet">
-    <link href="tables.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="bootstrap/docs/assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
